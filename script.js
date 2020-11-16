@@ -1,6 +1,6 @@
 
 var 
-        circle = document.getElementsByClassName("circle")[0],
+        circle = document.getElementById("circle"),
         pfx = ["webkit", "moz", "MS", "o", ""],
         anim  = document.getElementById("anim");
 
@@ -31,9 +31,9 @@ function AnimationListener(e) {
 
 // start/stop animation
 function ToggleAnimation(e) {
-        var on = (circle.className != "circle");
+        var on = (circle.className != "");
         anim.textContent = (on ? "start" : "stop");
-        circle.className = (on ? "circle" : "circle animated");
+        circle.className = (on ? "" : "animated");
         if (e) e.preventDefault();
 };
 
