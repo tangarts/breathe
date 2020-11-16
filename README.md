@@ -1,6 +1,12 @@
 
 TODO:
 
+[x] **Resizes on Tablet and Mobile devices**
+
+[ ] **Synchronise browinian noise w/ bubble**
+
+[ ] **Dark Mode**
+
 [ ] **Breathing ratios:**
 
    in, hold, out, hold rep 
@@ -17,14 +23,6 @@ TODO:
 [ ] 4 |  7 |  8 |  1
 
 [ ] wim hoff ? 
-
-[ ] **Dark Mode**
-
-[ ] **Synchronise browinian noise w/ bubble**
-
-[ ] **Resizes on Tablet and Mobile devices**
-
-[ ]
 
 
 
