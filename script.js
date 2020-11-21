@@ -1,4 +1,3 @@
-
 var 
         circle = document.getElementById("circle"),
         pfx = ["webkit", "moz", "MS", "o", ""],
