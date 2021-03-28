@@ -8,7 +8,7 @@ The small project was inspired by a page on a blog I can't seem to find.
 
 ## Demo
 
-Demo at [](https://tangarts.github.io/breathe)
+Demo at https://tangarts.github.io/breathe
 
 ## Features
 
